@@ -1,24 +1,37 @@
 # SuperGlu
 
-SuperGlu is an **AI-powered integration and automation platform** designed to help teams connect, sync, and manage data across multiple systems effortlessly. It allows businesses to streamline workflows, migrate data, and automate processes without writing complex custom code.  
+**SuperGlu** is an internal corporate social platform designed to take workplace **employee engagement** to the next level. It helps employees connect, collaborate, and stay motivated while making day-to-day workplace interactions seamless and fun.  
 
-SuperGlu leverages AI to intelligently map and transform data between APIs, databases, file sources, and legacy systems, making integrations faster, smarter, and more reliable.
+---
 
-## Key Features
+## Main Features
 
-- **Universal Integrations**: Connect any API, database, or file system without prebuilt connectors.  
-- **AI-Assisted Workflows**: Describe workflows in natural language and SuperGlu generates automated integration logic.  
-- **Self-Healing Logic**: Detects changes in connected systems and automatically adjusts workflows to prevent failures.  
-- **Operational Syncs & Migrators**: Schedule data syncs and migrations with full monitoring and logging.  
-- **Knowledge Capture**: Store and reuse business logic for team onboarding and consistent operations.  
-- **Enterprise-Grade Security**: Secure credentials, access control, and compliance-ready deployments.
+### Onboarding
+Easily onboard new employees with just a few clicks and get them started quickly.  
 
-## Why Use SuperGlu?
+### Engagement Bot
+Meet **Matti**, the SuperGlu bot! Matti assists employees with tasks, reminders, and engagement activities.  
 
-- **Accelerate Development**: Reduce integration build time from months to minutes.  
-- **Reduce Maintenance**: Automatic updates and self-healing logic keep workflows running smoothly.  
-- **Save Engineering Time**: AI handles repetitive tasks, allowing teams to focus on higher-value work.
+### Insight Dashboard
+Analyze unique employee engagement statistics to understand team dynamics and improve workplace productivity.  
 
-SuperGlu is perfect for businesses looking to simplify integration challenges, automate repetitive workflows, and modernize their data operations.
+### Colleagues
+Find and connect with colleagues to learn more about them and build stronger relationships.  
 
-For more information, visit [SuperGlu Cloud](https://superglu.cloud).
+### Badges
+Give badges to recognize your colleagues’ achievements, and collect badges for your own contributions!  
+
+### Goals Tracker
+Track personal and team goals, set todos, and ensure nothing falls through the cracks.  
+
+### Daily Dose
+Share updates, announcements, and daily messages seamlessly with your colleagues.  
+
+### Personal Profile
+Maintain your personal profile, showcase your skills, and highlight your achievements within the company.  
+
+---
+
+SuperGlu is the ultimate platform for **building connections, celebrating achievements, and keeping teams engaged** in a modern workplace.  
+
+For more information, visit [SuperGlu](https://superglu.cloud).
