@@ -1,3 +1,7 @@
+<div align="center">
+<img src="logo.png" alt="SuperGlu Logo" width="1000"/>
+</div>
+
 # SuperGlu
 
 SuperGlu is an **AI-powered integration and automation platform** designed to help teams connect, sync, and manage data across multiple systems effortlessly. It allows businesses to streamline workflows, migrate data, and automate processes without writing complex custom code.  
